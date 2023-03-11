@@ -77,6 +77,7 @@ list-style-type: none;
     /* border: 1px solid red; */
 }
 .background{
+    box-shadow: inset 5px 10px 20px 10px black;
     position: relative;
     background-image: url(./image/001_sp.jpg);
     width: 100%;
@@ -179,6 +180,7 @@ list-style-type: none;
     /* border: 2px solid black; */
 }
 .inner-img{
+    box-shadow: inset 2px 2px 20px 5px gray;
     position: relative;
     background-image: url(./image/person.jpg);
     background-position: center;
@@ -212,6 +214,7 @@ list-style-type: none;
     margin-left: 5px;
 }
 .inner-img2{
+    box-shadow: inset 5px 0px 10px 5px gray;
     position: relative;
     /* border: 1px solid red; */
     background-image: url(./image/persoon2.jpg);
@@ -279,6 +282,7 @@ list-style-type: none;
     height: 300px;
     border: 1px;
     padding-top: 40px;
+    margin-bottom: 50px;
 }
 .lastInnerImg{
     width: 300px;
